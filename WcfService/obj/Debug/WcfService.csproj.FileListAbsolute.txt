@@ -1,0 +1,75 @@
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\ApplicationInsights.config
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.dll.config
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Dados.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Agent.Intercept.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Negocio.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Dados.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Modelo.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Negocio.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.xml
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.xml
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.xml
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.xml
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\ApplicationInsights.config
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.dll.config
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\WcfService.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Dados.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Modelo.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Negocio.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Dados.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Modelo.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Negocio.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.xml
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\obj\Debug\WcfService.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\ApplicationInsights.config
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\WcfService.dll.config
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\WcfService.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\WcfService.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Dados.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Modelo.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Negocio.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Dados.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Modelo.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Negocio.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.Web.xml
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\WcfService\bin\Microsoft.ApplicationInsights.xml

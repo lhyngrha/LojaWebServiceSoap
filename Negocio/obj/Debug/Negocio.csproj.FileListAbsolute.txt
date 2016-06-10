@@ -1,0 +1,24 @@
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\bin\Debug\Negocio.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\bin\Debug\Modelo.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Negocio\obj\Debug\Negocio.pdb

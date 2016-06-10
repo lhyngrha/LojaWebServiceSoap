@@ -1,0 +1,21 @@
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Dados.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Dados.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Dados.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\bin\Debug\Dados.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\bin\Debug\Modelo.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\bin\Debug\Dados.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\bin\Debug\Dados.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Modelo\obj\Debug\Modelo.pdb

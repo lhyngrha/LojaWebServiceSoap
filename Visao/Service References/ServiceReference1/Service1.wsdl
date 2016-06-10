@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:10404/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:10404/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:10404/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Modelo" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_SelectFabricante_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectFabricante" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectFabricante_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectFabricanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertFabricante_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertFabricante" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertFabricante_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertFabricanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateFabricante_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateFabricante" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateFabricante_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateFabricanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteFabricante_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFabricante" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteFabricante_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFabricanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectVeiculo_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectVeiculo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectVeiculo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectVeiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteVeiculo_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteVeiculo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteVeiculo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteVeiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertVeiculo_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertVeiculo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertVeiculo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertVeiculoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateVeiculo_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVeiculo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateVeiculo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateVeiculoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="SelectFabricante">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectFabricante" message="tns:IService1_SelectFabricante_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectFabricanteResponse" message="tns:IService1_SelectFabricante_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertFabricante">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertFabricante" message="tns:IService1_InsertFabricante_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertFabricanteResponse" message="tns:IService1_InsertFabricante_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFabricante">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateFabricante" message="tns:IService1_UpdateFabricante_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateFabricanteResponse" message="tns:IService1_UpdateFabricante_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFabricante">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteFabricante" message="tns:IService1_DeleteFabricante_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteFabricanteResponse" message="tns:IService1_DeleteFabricante_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectVeiculo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectVeiculo" message="tns:IService1_SelectVeiculo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectVeiculoResponse" message="tns:IService1_SelectVeiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteVeiculo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteVeiculo" message="tns:IService1_DeleteVeiculo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteVeiculoResponse" message="tns:IService1_DeleteVeiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertVeiculo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertVeiculo" message="tns:IService1_InsertVeiculo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertVeiculoResponse" message="tns:IService1_InsertVeiculo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVeiculo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateVeiculo" message="tns:IService1_UpdateVeiculo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateVeiculoResponse" message="tns:IService1_UpdateVeiculo_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SelectFabricante">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectFabricante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertFabricante">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertFabricante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateFabricante">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateFabricante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFabricante">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteFabricante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectVeiculo">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectVeiculo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteVeiculo">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteVeiculo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertVeiculo">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertVeiculo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateVeiculo">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateVeiculo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:10404/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

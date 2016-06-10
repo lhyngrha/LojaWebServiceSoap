@@ -1,0 +1,18 @@
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll.config
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.pdb
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.dll
+\\mac\home\documents\visual studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll.config
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\bin\Debug\Dados.pdb
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.dll
+C:\Users\20131011110029\Documents\Visual Studio 2015\Projects\LojaWebServiceSoap\Dados\obj\Debug\Dados.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll.config
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\bin\Debug\Dados.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\bin\Debug\Dados.pdb
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\obj\Debug\Dados.dll
+C:\Users\luisf\Downloads\IFRN\2016\Programação Orientada a Serviços - Gilbert\LojaWebServiceSoap\Dados\obj\Debug\Dados.pdb
